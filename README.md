@@ -62,8 +62,8 @@ Como desarrollador web soy responsable de diseñar, crear y mantener sitios y ap
 .
 | COMANDOS | DESCRIPCIÒN |
 | ------ | ------ |
-| **cd** | Navega por todos los directorios en el sistema. |
-| **ls** | Enumerar el contenido del directorio, archivos y otros directorios anidados.|
+| **alias mkdir="mkdir -pv"** | facilita la creación de directorios. |
+| **alias ports="netstat -tulanp"** | Listar los puertos abiertos en nuestro equipo..|
 
 
 
